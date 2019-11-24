@@ -5,7 +5,7 @@
 [Boostrap3中文文档](https://v3.bootcss.com/)
 [Github OAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 [Gtihub OAuth说明文档](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)  
-
+[OkHttp官网](https://square.github.io/okhttp/)
 
 
 
@@ -15,6 +15,7 @@
 搜索：ctrl+shift+n   
 多行同时输入：alt+鼠标按住左键往下拉  
 到当前行行末：fn+ ->  
+打开左边项目展开栏：alt+1  
 
 ## 注意
 README.md文件要换行，在行末加两个空格（也有说这个方法不行的，那可能要老老实实加回车?）
